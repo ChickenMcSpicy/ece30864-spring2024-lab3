@@ -14,3 +14,10 @@
     Scrum Meeting: Daily meeting to discuss what was completed the day before and what will be completed the current day
 
 4) Difference between epic, story, bug, task issue
+    Epic: large body of work that can be broken into smaller stories
+
+    Story: Software system requirement expressed in short sentences
+
+    Bug: Issue in code that can be used to block stories from being completed
+
+    Task Issue: Unit of work that can be tracked through workflow, ranged from a bug to an epic
