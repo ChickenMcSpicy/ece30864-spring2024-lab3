@@ -1,0 +1,9 @@
+1) Who is equivalent to a product manager?
+    Software Project Manager. The software project manager is in charge of planning (scope, timeline, resources), 
+    execution(supervision, checkins), time management(roadblocks, risk management), budget, and maintenance.
+
+2)Role and responsilibities of scrume master vs product owner
+
+3) 3 types of meetings during sprint cycle
+
+4) Difference between epic, story, bug, task issue
