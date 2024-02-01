@@ -2,7 +2,9 @@
     Software Project Manager. The software project manager is in charge of planning (scope, timeline, resources), 
     execution(supervision, checkins), time management(roadblocks, risk management), budget, and maintenance.
 
-2)Role and responsilibities of scrume master vs product owner
+2) Role and responsilibities of scrume master vs product owner
+    Product Owner in charge of deciding the scope of the project and keeping team on track according to timeline. 
+    Scrum master in charge of managing the Scrum sprint: removing roadblocks, looking over bugs, improve team’s ability to complete tasks.
 
 3) 3 types of meetings during sprint cycle
 
