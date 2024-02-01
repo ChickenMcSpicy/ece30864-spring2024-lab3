@@ -7,5 +7,10 @@
     Scrum master in charge of managing the Scrum sprint: removing roadblocks, looking over bugs, improve team’s ability to complete tasks.
 
 3) 3 types of meetings during sprint cycle
+    Sprint Planning Meeting: Plan tasks for spring and allocate tasks
+
+    Sprint Retrospective Meeting: Look back on complete sprints and assess weak points
+
+    Scrum Meeting: Daily meeting to discuss what was completed the day before and what will be completed the current day
 
 4) Difference between epic, story, bug, task issue
